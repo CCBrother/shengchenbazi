@@ -1,0 +1,4 @@
+interface:
+  display_name: "八字命理解读"
+  short_description: "四柱八字精准排盘、五行十神白话与流年命理解读工作流"
+  default_prompt: "Use $bazi-reading to calculate my four pillars and provide a practical reading."
